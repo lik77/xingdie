@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lik/1/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4  -O0 -Wall -g -ggdb -std=gnu++11 -o CMakeFiles/c__.dir/xiaoneisai.cpp.o -c /home/lik/1/xiaoneisai.cpp",
+  "file": "/home/lik/1/xiaoneisai.cpp"
+}
+]
